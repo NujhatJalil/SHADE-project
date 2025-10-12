@@ -4,30 +4,22 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Systematic Heat Assessment and Data Evaluation Project @ Aggie Data Science Club (Fall 2025).
+The Systematic Heat Analysis and Data Evaluation Project @ Aggie Data Science Club, Texas A&M University (Fall 2025).\
+Predictive modeling for heat waves, analyzing time-series temperature data from Austin, TX (1999-2023).
 
-## Project Organization (Repo Template)
+## Project Organization
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
+├── Makefile
 ├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+│                         team name, and a short `-` delimited description, e.g.
+│                         `1.0-ml-initial-data-exploration`.
 │
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         the_s.h.a.d.e._project___adsc_f25 and configuration for tools like black
+├── pyproject.toml     <- Project configuration file with package metadata
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │

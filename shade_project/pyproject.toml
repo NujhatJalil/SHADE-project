@@ -3,11 +3,16 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "the_s.h.a.d.e._project___adsc_f25"
+name = "The S.H.A.D.E. Project"
 version = "0.0.1"
-description = "A short description of the project."
+description = "The Systematic Heat Analysis and Data Evaluation Project @ Aggie Data Science Club, Texas A&M University (Fall 2025). Predictive modeling for heat waves,
+analyzing time-series temperature data from Austin, TX (1999-2023)."
 authors = [
-  { name = "Nujhat Jalil" },
+  { project lead = "Nujhat Jalil",
+    classical forecasting team lead = "Sahil Patel",
+    machine learning team lead = "Hrudith Lakshminarasimman,
+    hybrid team lead = "Orlando Haye"
+  },
 ]
 
 readme = "README.md"
