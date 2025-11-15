@@ -7,6 +7,8 @@
 The Systematic Heat Analysis and Data Evaluation Project @ Aggie Data Science Club, Texas A&M University (Fall 2025).\
 Predictive modeling for heat waves, analyzing time-series temperature data from Austin, TX (1999-2023).
 
+Naming convention for all files is team name, a number (for ordering), and a short `-` delimited description, e.g. `ml-1.0-initial-data-exploration.ipynb` or `hybrid-1.0-heatmap-calendar.png`.
+
 ## Project Organization
 
 ```
@@ -15,9 +17,9 @@ Predictive modeling for heat waves, analyzing time-series temperature data from 
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         team name, and a short `-` delimited description, e.g.
-│                         `1.0-ml-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks. Naming convention is team name, a number (for ordering),
+│                         and a short `-` delimited description, e.g.
+│                         `ml-1.0-initial-data-exploration`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata
 │
