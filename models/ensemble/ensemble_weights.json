@@ -1,0 +1,17 @@
+{
+  "regression_weights": {
+    "rf_predicted_heat_index": 0.33860087637150266,
+    "predicted_heat_index_xgb": 0.3315464438142198,
+    "predicted_heat_index_ada": 0.3298526798142775
+  },
+  "classification_weights": {
+    "rf_predicted_heat_risk": 0.2987477555382007,
+    "predicted_heat_risk_xgb": 0.3514792271511694,
+    "predicted_heat_risk_ada": 0.34977301731062976
+  },
+  "classification_proba_weights": {
+    "rf_predicted_heat_risk_proba": 0.2987477555382007,
+    "predicted_heat_risk_xgb_proba": 0.3514792271511694,
+    "predicted_heat_risk_ada_proba": 0.34977301731062976
+  }
+}
