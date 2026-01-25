@@ -1,0 +1,9 @@
+LSTM Regression Model Architecture:
+- Input: (None, 14, 16)
+- LSTM Layer: 64 units, return_sequences=True
+- Dropout: 0.2
+- LSTM Layer: 32 units, return_sequences=False
+- Dropout: 0.2
+- Dense Layer: 32 units (activation=linear)
+- Output Layer: 1 unit (linear activation)
+- Total Parameters: 34241

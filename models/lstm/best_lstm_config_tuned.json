@@ -1,0 +1,9 @@
+{
+  "lstm_units1": 64,
+  "lstm_units2": 32,
+  "dropout": 0.2,
+  "dense_units": 32,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "best_val_loss": 51.48002624511719
+}
