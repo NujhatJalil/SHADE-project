@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-The Systematic Heat Analysis and Data Evaluation Project @ Aggie Data Science Club, Texas A&M University (Fall 2025).\
+The Systematic Heat Analysis and Data Evaluation Project @ Texas A&M University.\
 Predictive modeling for heat waves, analyzing time-series temperature data from Austin, TX (1999-2023).
 
 Naming convention for all files is team name, a number (for ordering), and a short `-` delimited description, e.g. `ml-1.0-initial-data-exploration.ipynb` or `hybrid-1.0-heatmap-calendar.png`.
